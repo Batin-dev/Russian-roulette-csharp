@@ -1,0 +1,7 @@
+C:\Users\Batın Eymen\source\repos\Russian roulette\Russian roulette\bin\Debug\Russian roulette.exe.config
+C:\Users\Batın Eymen\source\repos\Russian roulette\Russian roulette\bin\Debug\Russian roulette.exe
+C:\Users\Batın Eymen\source\repos\Russian roulette\Russian roulette\bin\Debug\Russian roulette.pdb
+C:\Users\Batın Eymen\source\repos\Russian roulette\Russian roulette\obj\Debug\Russian roulette.csproj.AssemblyReference.cache
+C:\Users\Batın Eymen\source\repos\Russian roulette\Russian roulette\obj\Debug\Russian roulette.csproj.CoreCompileInputs.cache
+C:\Users\Batın Eymen\source\repos\Russian roulette\Russian roulette\obj\Debug\Russian roulette.exe
+C:\Users\Batın Eymen\source\repos\Russian roulette\Russian roulette\obj\Debug\Russian roulette.pdb
